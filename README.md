@@ -9,6 +9,5 @@
 
 
 
-[![Status](https://github-readme-stats.vercel.app/api?username=antoniomusciano&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniomusciano&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![winstonwhirloo's github stats](https://github-readme-stats.vercel.app/api?username=antoniomusciano&theme=tokyonight&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniomusciano&layout=compact&theme=tokyonight)
